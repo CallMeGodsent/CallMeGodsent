@@ -9,15 +9,25 @@ ____________
 Godsent is a manager of several brands and businesses, with experience managing global teams and multi-million-dollar campaigns. He background in:
 
 • Brand strategy. 😊
+
 • Visual design. 😩
+
 • Web and software development. 🕵️
-• Blogging. 😋
+
+• Blogging. 😋k
+
 • Writing. 😳
+
 • Digital Marketing. 🤔
+
 • Game development. 🙃
+
 • 3d.🏃
+
 • Leadership. 😔
+
 • Teaching.👲
+
 And many more. 🔥🔥🔥
 
 Godsent has also done account managing, which is mindful but with competitive approach. Godsent is fueled by his passion for understanding the nuances of cross-cultural advertising. He considers himself a ‘forever student,’ eager to both build on her academic foundations in psychology and sociology and stay in tune with the latest digital marketing strategies through continued coursework.
