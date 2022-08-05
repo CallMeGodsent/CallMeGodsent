@@ -14,19 +14,17 @@ Hey, thanks for using our readme. We will be very happy if you give us attribute
 <br />
 <a href="https://www.linkedin.com/in/callme-godsent-291127244" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+
 <a href="https://twitter.com/AkpoviGreat" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
+
 <a href="https://www.instagram.com/call_me_godsent/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
+
 <a href="https://facebook.com/callme.godsent" target="_blank">
 <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Facebook style="margin-bottom: 5px;" /></a>
 <br />
 <br />
-
-Check out my (GodsentFx) repository at [https://github.com/GodsentFx](https://github.com/GodsentFx)
-
-<br />
-
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt=" Godsent Codewar Badge">
 
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hacker Rank">
