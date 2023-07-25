@@ -138,7 +138,7 @@ Godsent is a manager of several brands and businesses, with experience managing 
   
 ## Godsent
  
-Godsent has also done account managing, which is mindful but with competitive approach. He is at same time fueled by passion for understanding the nuances of cross-cultural advertising. <br><br><br> He considers himself a ‘forever student,’ eager to both build on her academic foundations in psychology and sociology and stay in tune with the latest digital marketing strategies through continued coursework.
+Godsent has also done account managing, which is mindful but with competitive approach. He is at same time fueled by passion for understanding the nuances of cross-cultural advertising. <br><br><br> He considers himself a ‘forever student,’ eager to both build on his academic foundations in psychology and sociology and stay in tune with the latest digital marketing strategies through continued coursework.
 <br><br><br>
 His hunger for knowledge and determination to turn information into action has contributed to his most recent success at Rockwell Group, where he led international, award-winning campaigns for heavy-hitting brands, <br><br> such as GaraTech (which was later sold), and some notable companies, both remotely. <br><br><br> Meanwhile, he vastly improved the productivity of her team by implementing strategic project management methods and ensuring a work-life balance for his department.
 <br />
@@ -146,7 +146,7 @@ His hunger for knowledge and determination to turn information into action has c
 <img src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/CallMeGodsent.jpg" alt="godsent" width="auto" height="260" />
 <br />
 
-Godsent believes mindfulness in the workplace is key to success - a tenet s he lives out through his interests in <br><br> designing, meditation, farming, and reading. Godsent is currently working as a freelancer and is always interested in a challenge.
+Godsent believes mindfulness in the workplace is key to success - a tenet he lives out through his interests in <br><br> designing, meditation, farming, and reading. Godsent is currently working as a freelancer and is always interested in a challenge.
 <br>
 Reach out to him at akpovigreat@gmail.com to connect!
 <hr><br />
@@ -162,7 +162,7 @@ I am currently working on GodsentFx (GodsentFx.Com.Ng - My statup). You can chec
 <br />
 Our website: Godsentfx.com.ng
 
-Thank you for checking up on us. 🔥
+Thank you for checking up on me. 🔥
 <br />
 Have a job for me? Or wanna say Hi? Kindly chat me up.
 
