@@ -4,7 +4,6 @@ Thanks for checking out my README — Sending love from Africa ❤️
 
 # Hi There 👋 Welcome to my GitHub profile!
 
-![Logo](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/logo.png)
 
 > 🚨 **Note:** I no longer work on **GodsentFx** — my focus is now on **[Miragek](https://miragek.com)** 🚀
 
@@ -32,25 +31,21 @@ I’m a full-stack developer and entrepreneur, currently building amazing things
 
 ## 🛠 Tech Stack
 
-![HTML](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/html.svg)
-![CSS](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/css.svg)
-![JavaScript](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/javascript.svg)
-![Bootstrap](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/bootstrap.svg)
-![Tailwind](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/tailwind.svg)
-![Sass](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/sass.svg)
-![React](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/react.svg)
-![GraphQL](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/graphql.svg)
-![Node.js](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/nodejs.svg)
-![Firebase](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/firebase.svg)
-![Figma](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/figma.svg)
-![Ruby](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/ruby.svg)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Callmegodsent&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godsentfx&layout=compact&langs_count=8&hide_border=true&theme=great-gatsby)
+<p align="center">
+  <img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/html.svg" alt="HTML" />
+  <img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/css.svg" alt="CSS" />
+  <img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/javascript.svg" alt="JavaScript" />
+  <img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/bootstrap.svg" alt="Bootstrap" />
+  <img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/tailwind.svg" alt="Tailwind CSS" />
+  <img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/sass.svg" alt="Sass" />
+  <img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/figma.svg" alt="Figma" />
+  <img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/react.svg" alt="React" />
+  <img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/graphql.svg" alt="GraphQL" />
+  <img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/nodejs.svg" alt="Node.js" />
+  <img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/firebase.svg" alt="Firebase" />
+  <img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/c.svg" alt="C Programming" />
+  <img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/ruby.svg" alt="Ruby" />
+</p>
 
 ---
 
