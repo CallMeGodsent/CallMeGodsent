@@ -1,91 +1,74 @@
 <!--
-Hey, thanks for checking out my README! Sending love from Africa ❤️
+Thanks for checking out my README — Sending love from Africa ❤️
 -->
 
-<div align="center">
+# Hi There 👋 Welcome to my GitHub profile!
 
-<img src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/logo.png" alt="Miragek Logo" width="300" height="auto" />
+![Logo](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/logo.png)
 
-<h2>Hey there! 👋 Welcome to my GitHub profile!</h2>
+> 🚨 **Note:** I no longer work on **GodsentFx** — my focus is now on **[Miragek](https://miragek.com)** 🚀
 
-<a href="https://www.linkedin.com/in/callme-godsent-291127244" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+---
 
-<a href="https://twitter.com/AkpoviGreat" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-
-<a href="https://www.instagram.com/call_me_godsent/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<a href="https://facebook.com/callme.godsent" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-
-<br /><br />
-<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars Badge">
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge">
-
-</div>
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callme-godsent-291127244)  
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AkpoviGreat)  
+[![Instagram](https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/call_me_godsent/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/callme.godsent)
 
 ---
 
 ## 👤 About Me
 
-Hi, I’m **Godsent** (Akpovi Oghenegare), a full-stack developer, entrepreneur, and CEO of [Miragek](https://miragek.com) — the next chapter after **GodsentFx**.  
+Hi, I’m **Godsent** (Akpovi Oghenegare), also known as *CallMeGodsent*.  
+I’m a full-stack developer and entrepreneur, currently building amazing things at **[Miragek](https://miragek.com)**.
 
-💻 I create high-performance apps, websites, and solutions with modern technologies.  
+💻 I create high-performance apps, websites, and digital solutions.  
 📍 Based in **Delta State, Nigeria**.  
-🎮 Gamer, writer, and lifelong learner.  
-🎧 Fun fact: I write my best code to sad songs. 😅  
+🎮 Gamer, writer, and tech explorer.  
+🎧 Fun fact: I code to sad songs. 😅  
 
 ---
 
 ## 🛠 Tech Stack
 
-<div align="center">
-<img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/html.svg" alt="HTML" />
-<img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/css.svg" alt="CSS" />
-<img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/javascript.svg" alt="JavaScript" />
-<img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/bootstrap.svg" alt="Bootstrap" />
-<img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/tailwind.svg" alt="TailwindCSS" />
-<img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/sass.svg" alt="Sass" />
-<img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/react.svg" alt="React" />
-<img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/nodejs.svg" alt="Node.js" />
-<img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/graphql.svg" alt="GraphQL" />
-<img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/firebase.svg" alt="Firebase" />
-<img height="40" src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/figma.svg" alt="Figma" />
-</div>
+![HTML](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/html.svg)
+![CSS](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/css.svg)
+![JavaScript](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/javascript.svg)
+![Bootstrap](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/bootstrap.svg)
+![Tailwind](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/tailwind.svg)
+![Sass](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/sass.svg)
+![React](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/react.svg)
+![GraphQL](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/graphql.svg)
+![Node.js](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/nodejs.svg)
+![Firebase](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/firebase.svg)
+![Figma](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/figma.svg)
+![Ruby](https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/ruby.svg)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CallMeGodsent&show_icons=true&count_private=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodsentFx&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="165" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Callmegodsent&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godsentfx&layout=compact&langs_count=8&hide_border=true&theme=great-gatsby)
 
 ---
 
 ## 📜 My Journey
 
-- Founded **GodsentFx** (now discontinued) → Evolved into **Miragek** 🚀  
-- Experience in **brand strategy**, **web/software development**, **game development**, **digital marketing**, **3D design**, and **leadership**.  
-- Collaborated with international teams on award-winning projects.  
-- Big believer in **mindfulness** and **continuous learning**.  
+- 🚀 Founder & CEO of **Miragek** (current)  
+- 🏆 Former founder of **GodsentFx** (discontinued)  
+- 🎯 Experience in brand strategy, design, software development, game dev, marketing, 3D, and leadership.  
+- 🌎 Collaborated on award-winning campaigns for international brands.  
+- 🧘‍♂️ Advocate for mindfulness and continuous learning.
 
 ---
 
 ## 📬 Contact Me
 
-💌 Email: [akpovigreat@gmail.com](mailto:akpovigreat@gmail.com)  
-🌍 Website: [Miragek.com](https://miragek.com)  
+📧 **Email:** [akpovigreat@gmail.com](mailto:akpovigreat@gmail.com)  
+🌍 **Website:** [Miragek.com](https://miragek.com)  
 
 ---
 
-<div align="center">
-✨ **Happy Coding!** ✨  
-</div>
+✨ *Happy Coding!* ✨
